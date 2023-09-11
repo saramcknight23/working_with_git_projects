@@ -1,0 +1,20 @@
+---
+title: Working with Quarto and Git
+author:
+  - name: Sara McKnight
+    orcid: 0009-0008-6574-9203
+    email: 'smcknight4@huskers.unl.edu'
+    affiliation: University of Nebraska-Lincoln Department of Mathematics
+date: today
+format: 
+  html:
+    theme: spacelab
+    self-contained: true
+editor: source
+---
+
+### Introduction
+
+We are going to be using a document generating framework (Quarto, built off of RMarkdown) to explore how to use git and give us a background into using Quarto to generate a document.
+
+Lots of help can be found [here](https://quarto.org/docs/guide/).
